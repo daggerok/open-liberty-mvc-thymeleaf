@@ -12,4 +12,7 @@ http :8080/world
 
 open http://localhost:8181/hello
 
-https://jeeconf.com/materials/mvc-1-by-example/
+## resources
+
+* https://jeeconf.com/materials/mvc-1-by-example/
+* https://github.com/daggerok/openliberty-mp-web-socket-example
